@@ -1,0 +1,4 @@
+<% if @post%>
+	reloadBoxList('<%=  escape_javascript(render :partial => "list", locals: {posts: @posts	 }).gsub("\n","").html_safe  %>');
+<%end%>
+
