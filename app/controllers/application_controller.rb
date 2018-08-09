@@ -1,4 +1,5 @@
 class ApplicationController < ActionController::Base
+<<<<<<< HEAD
 	#fvdksjsnkgsnk
 	sdsa
 	def sad
@@ -12,4 +13,6 @@ class ApplicationController < ActionController::Base
 		end
 		
 	end
+=======
+>>>>>>> parent of 432e3f0... Checking Ignore Files
 end
